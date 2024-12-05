@@ -4,4 +4,4 @@ storage_class               = "NEARLINE"
 labels                      = { environment = "dev", user = "user3" }
 versioning                  = true
 uniform_bucket_level_access = true
-bucket_count                = 1
+bucket_count                = 2
